@@ -8,6 +8,10 @@
 💬 Ask me about Python, AI, and building projects  
 ⚡ I fix one bug and accidentally unlock three more.
 
+<p align="center">
+  <img src="./penguin.png" width="100%" alt="Penguin running along a snowy shore" />
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshan-roy/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/eshan_roy/)
 
