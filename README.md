@@ -9,7 +9,7 @@
 ⚡ I fix one bug and accidentally unlock three more.
 
 <p align="center">
-  <img src="./penguin.png" width="180" alt="Penguins" />
+  <img src="./penguin.png" width="210" alt="Penguins" />
 </p>
 
 ## 🌐 Socials:
